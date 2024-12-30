@@ -1,0 +1,2 @@
+D:\GithubNew\2\otp2\OTP2\Zylo-Otp-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\2\otp2\OTP2\Zylo-Otp-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
